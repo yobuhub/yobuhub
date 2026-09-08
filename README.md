@@ -2,7 +2,9 @@
 
 **`Data Analyst (ex-PwC)`**
 **`Finance & M&A background`**
+
 <br>
+
 [![Email](https://img.shields.io/badge/Email-Contact-14161A?style=flat-square&logo=gmail&logoColor=white)](mailto:magda.schroer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magda-schroer/)
 #
