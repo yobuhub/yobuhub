@@ -1,7 +1,7 @@
 # 🔎 Magda Schröer
-<br><br>
 **`Data Analyst (ex-PwC)`**
 **`Finance & M&A background`**
+#
 
 #
 [![Email](https://img.shields.io/badge/Email-Contact-14161A?style=flat-square&logo=gmail&logoColor=white)](mailto:magda.schroer@gmail.com)
