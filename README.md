@@ -1,4 +1,5 @@
-#🔎 Magda Schröer <br><br>
+#🔎 Magda Schröer
+<br><br>
 **`Data Analyst (ex-PwC)`**
 **`Finance & M&A background`**
 
