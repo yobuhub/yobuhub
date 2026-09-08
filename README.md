@@ -3,6 +3,7 @@
 **`Data Analyst (ex-PwC)`**
 **`Finance & M&A background`**
 <br>
+<br>
 Four years in M&A advisory at PwC Polska taught me how to read a business through its numbers. A few years in UX/UI and web development taught me how to make findings clear enough that someone actually acts on them. Now I combine both as a data analyst.
 
 [![Email](https://img.shields.io/badge/Email-Contact-14161A?style=flat-square&logo=gmail&logoColor=white)](mailto:magda.schroer@gmail.com)
