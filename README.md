@@ -5,11 +5,9 @@
 **`Finance & M&A background`**
 <br>
 <br>
-Four years in M&A advisory at PwC Polska taught me to understand businesses through their numbers: how they make money, what drives their performance, and how they fit into the wider market. I’m now bringing that perspective to data analytics with SQL, Python and Excel.
+I’m a data analyst with a background in finance and M&A. I spent four years at PwC Polska, researching markets and analysing companies for buy-side and sell-side transactions.
 
-My work at PwC included market research and financial and commercial analyses across sectors such as retail, e-commerce, healthcare, consumer durables and renewable energy. Moving between industries taught me to get up to speed quickly, question assumptions and put findings in context.
-
-I also bring two years of experience in UX/UI design and web development, including building Shopify stores. That background shapes how I communicate analysis: clear structure, readable charts and explanations that help people use the findings in action.
+I also have two years of experience in UX/UI design and web development, including building Shopify stores. I’m currently developing my analytics portfolio using SQL, Python and Excel, with projects covering e-commerce, inventory, manufacturing and logistics.
 
 📍 Based in Poland · Open to remote opportunities across the EU
 
@@ -34,12 +32,12 @@ I also bring two years of experience in UX/UI design and web development, includ
 
 **2021–2025 · Intern → Senior Associate**
 
-Worked on sell-side and buy-side transactions across retail, e-commerce, healthcare, consumer durables and renewable energy.
+Worked on sell-side and buy-side transactions in retail, e-commerce, healthcare, consumer durables and renewable energy.
 
-- Conducted market research and financial and commercial analyses to assess company performance, business models and competitive positioning.
-- Supported creation of due diligence datarooms through cleaning and analyzing spreadsheet data.
+- Researched markets and analysed company performance, business models and competitors.
+- Cleaned and analysed spreadsheet data to support the preparation of due diligence data rooms.
 - Prepared market reports and transaction materials, including Information Memoranda and Teasers.
-- Coordinated day-to-day transaction work and due diligence processes, helping organise information and move work forward across stakeholders.
+- Coordinated day-to-day transaction tasks and information exchange during due diligence.
 
 ### UX/UI Design & Web Development
 
@@ -47,9 +45,9 @@ Worked on sell-side and buy-side transactions across retail, e-commerce, healthc
 
 Designed and built websites and Shopify stores, combining interface design with practical implementation.
 
-- Organised content and navigation to help users find information and move through a website or purchase journey.
-- Translated business requirements into page structures, interfaces and functioning websites.
-- Developed a practical understanding of e-commerce storefronts and how design decisions shape the shopping experience.
+- Designed and built websites and Shopify stores, from page layouts through to implementation.
+- Organised content and navigation to help visitors find information and complete purchases (in-line with best UX practices and WCAG 2.1 (AA)).
+- Translated business requirements into website structures and interface designs.
 
 #
 
@@ -62,7 +60,7 @@ Certification in progress.
 
 ### Featured projects
 
-Four projects, four different skills. Full write-ups (methodology, data quality issues found, limitations) will live in each repo's README.
+I’m building four projects around different business questions. Each repository will document the analysis, findings and any data quality issues or limitations.
 
 <table>
 <tr>
@@ -71,11 +69,11 @@ Four projects, four different skills. Full write-ups (methodology, data quality 
 **01 — Apparel E-commerce Funnel Analysis**<br>
 *Python-led clickstream analysis · 18.6M events across 5 months*
 
-Where do shoppers drop off between view, cart and purchase - and which step is worth fixing first?
+Where do shoppers drop off between viewing a product, adding it to their cart and purchasing—and which step should be investigated first?
 
 `Python` `pandas` `funnel analysis` `matplotlib`
 
-🚧 Planned — first project up
+🚧 Planned
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +81,7 @@ Where do shoppers drop off between view, cart and purchase - and which step is w
 **02 — Retail: Stock Rotation & Frozen Capital**<br>
 *SQL fundamentals + business-facing Excel · inventory snapshot vs. 90-day sales*
 
-How much capital sits in slow-moving stock, and which SKUs should be marked down or reordered?
+How much capital is tied up in slow-moving stock, and which SKUs should be considered for markdowns or reordering?
 
 `SQL` `Excel` `pivot tables` `days-of-cover`
 
@@ -97,7 +95,7 @@ How much capital sits in slow-moving stock, and which SKUs should be marked down
 **03 — Manufacturing Downtime & OEE**<br>
 *Excel / Power Query-led · production runs, downtime events, quality checks*
 
-Which downtime causes cost the most output, and what would fixing the top one do to OEE?
+Which causes of downtime reduce output the most, and how would addressing the largest one affect overall equipment effectiveness (OEE)?
 
 `Excel` `Power Query` `SQL` `window functions`
 
@@ -109,11 +107,11 @@ Which downtime causes cost the most output, and what would fixing the top one do
 **04 — Logistics Operations Analysis**<br>
 *End-to-end SQL analysis · 14-table relational database, 87k orders*
 
-Where is this trucking operation losing money, and which operational levers matter most?
+Where is this trucking operation losing money, and what should be investigated first?
 
 `SQL` `PostgreSQL` `CTEs` `window functions`
 
-🚧 Planned — flagship project
+🚧 Planned
 
 </td>
 </tr>
@@ -125,17 +123,17 @@ Where is this trucking operation losing money, and which operational levers matt
 
 ### 💡 What I bring
 
-**Business context behind the metrics**  
-My M&A background helps me connect individual metrics to the wider business: its revenue model, cost structure, competitive position and market conditions. I’m used to asking what drives a result and what could change its interpretation.
+**Understanding the business behind the data**  
+At PwC, assessing a company meant understanding how it made money and what influenced its performance. That experience helps me decide which questions to ask and how to interpret the results in the context of the business.
 
-**A questioning approach to analysis**  
-Working with financial and commercial information taught me to examine assumptions, compare sources and recognise gaps in the evidence. I pay attention to what the available data can support and where a conclusion needs further investigation.
+**Questioning the data & its quality**  
+I’m used to comparing sources and questioning the assumptions behind a conclusion. In my portfolio, I’ll make those checks visible, including gaps in the data and how they affect the findings.
 
 **Experience across industries**  
-From retail and e-commerce to healthcare and renewable energy, I’ve had to learn how different businesses operate. That experience helps me get familiar with new domains, understand their terminology and identify relevant performance drivers.
+Working across retail, e-commerce, consumer durables, healthcare and renewable energy meant learning the market as well as the company. I’m used to getting up to speed on an unfamiliar sector and understanding what matters when assessing a business’s performance.
 
-**Communication shaped by design**  
-Preparing transaction materials taught me to structure a business argument; UX/UI taught me to consider the reader’s experience. I bring both perspectives to analysis, with attention to information hierarchy, readable charts and clear explanations.
+**Making analysis easy to follow**  
+Preparing transaction materials gave me practice explaining business findings. Designing websites added a focus on how people navigate information. I apply both to structuring my work so a reader can follow the analysis and understand how I reached a conclusion.
 
 #
 
