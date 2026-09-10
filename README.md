@@ -5,9 +5,9 @@
 **`Finance & M&A background`**
 <br>
 <br>
-I’m a data analyst with a background in finance and M&A. I spent four years at PwC Polska, researching markets and analysing companies for buy-side and sell-side transactions.
+I’m a data analyst with a background in finance and M&A. I spent four years at PwC Polska, researching markets and analyzing companies for buy-side and sell-side transactions.
 
-I also have two years of experience in UX/UI design and web development, including building Shopify stores. I’m currently developing my analytics portfolio using SQL, Python and Excel, with projects covering e-commerce, inventory, manufacturing and logistics.
+I also have two years of experience in UX/UI design and web development, including building Shopify stores. I’m currently developing my analytics portfolio using SQL, Python, and Excel, with projects covering e-commerce, inventory, manufacturing, and logistics.
 
 📍 Based in Poland · Open to remote opportunities across the EU
 
@@ -32,10 +32,10 @@ I also have two years of experience in UX/UI design and web development, includi
 
 **2021–2025 · Intern → Senior Associate**
 
-Worked on sell-side and buy-side transactions in retail, e-commerce, healthcare, consumer durables and renewable energy.
+Worked on sell-side and buy-side transactions in retail, e-commerce, healthcare, consumer durables, and renewable energy.
 
-- Researched markets and analysed company performance, business models and competitors.
-- Cleaned and analysed spreadsheet data to support the preparation of due diligence data rooms.
+- Researched markets and analyzed company performance, business models, and competitors.
+- Cleaned and analyzed spreadsheet data to support the preparation of due diligence data rooms.
 - Prepared market reports and transaction materials, including Information Memoranda and Teasers.
 - Coordinated day-to-day transaction tasks and information exchange during due diligence.
 
@@ -46,7 +46,7 @@ Worked on sell-side and buy-side transactions in retail, e-commerce, healthcare,
 Designed and built websites and Shopify stores, combining interface design with practical implementation.
 
 - Designed and built websites and Shopify stores, from page layouts through to implementation.
-- Organised content and navigation to help visitors find information and complete purchases (in-line with best UX practices and WCAG 2.1 (AA)).
+- Organized content and navigation to help visitors find information and complete purchases (in line with best UX practices and WCAG 2.1 (AA)).
 - Translated business requirements into website structures and interface designs.
 
 #
@@ -60,7 +60,7 @@ Certification in progress.
 
 ### Featured projects
 
-I’m building four projects around different business questions. Each repository will document the analysis, findings and any data quality issues or limitations.
+I’m building four projects around different business questions. Each repository will document the analysis, findings, and any data quality issues or limitations.
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ I’m building four projects around different business questions. Each repositor
 **01 — Apparel E-commerce Funnel Analysis**<br>
 *Python-led clickstream analysis · 18.6M events across 5 months*
 
-Where do shoppers drop off between viewing a product, adding it to their cart and purchasing—and which step should be investigated first?
+Where do shoppers drop off between viewing a product, adding it to their cart, and purchasing—and which step should be investigated first?
 
 `Python` `pandas` `funnel analysis` `matplotlib`
 
@@ -81,7 +81,7 @@ Where do shoppers drop off between viewing a product, adding it to their cart an
 **02 — Retail: Stock Rotation & Frozen Capital**<br>
 *SQL fundamentals + business-facing Excel · inventory snapshot vs. 90-day sales*
 
-How much capital is tied up in slow-moving stock, and which SKUs should be considered for markdowns or reordering?
+How much capital is tied up in slow-moving stock, and which SKUs should be marked down or reordered?
 
 `SQL` `Excel` `pivot tables` `days-of-cover`
 
@@ -127,13 +127,13 @@ Where is this trucking operation losing money, and what should be investigated f
 At PwC, assessing a company meant understanding how it made money and what influenced its performance. That experience helps me decide which questions to ask and how to interpret the results in the context of the business.
 
 **Questioning the data & its quality**  
-I’m used to comparing sources and questioning the assumptions behind a conclusion. In my portfolio, I’ll make those checks visible, including gaps in the data and how they affect the findings.
+I’m used to comparing sources and questioning the assumptions behind a conclusion. In my portfolio, I’ll make those checks visible, including data gaps and how they affect the findings.
 
 **Experience across industries**  
-Working across retail, e-commerce, consumer durables, healthcare and renewable energy meant learning the market as well as the company. I’m used to getting up to speed on an unfamiliar sector and understanding what matters when assessing a business’s performance.
+Working across retail, e-commerce, consumer durables, healthcare, and renewable energy meant learning the market as well as the company. I’m used to getting up to speed on an unfamiliar sector and understanding what matters when assessing a business’s performance.
 
 **Making analysis easy to follow**  
-Preparing transaction materials gave me practice explaining business findings. Designing websites added a focus on how people navigate information. I apply both to structuring my work so a reader can follow the analysis and understand how I reached a conclusion.
+Preparing transaction materials gave me practice explaining business findings. Designing websites also sharpened my focus on how people navigate information. I apply both to structure my work so readers can follow the analysis and understand my conclusions.
 
 #
 
