@@ -5,9 +5,9 @@
 **`Finance & M&A background`**
 <br>
 <br>
-I’m a data analyst with a background in finance and M&A. I spent four years at PwC Polska, researching markets and analyzing companies for buy-side and sell-side transactions.
+I’m a data analyst with a background in finance and M&A. During my four years at PwC Polska, I researched markets and analyzed businesses to support buy-side and sell-side transactions, focusing on how companies make money and what drives performance.
 
-I also have two years of experience in UX/UI design and web development, including building Shopify stores. I’m currently developing my analytics portfolio using SQL, Python, and Excel, with projects covering e-commerce, inventory, manufacturing, and logistics.
+My experience also includes two years in UX/UI design and web development, where I designed and built websites and Shopify stores. I’m now developing my analytics portfolio using SQL, Python, and Excel, with projects focused on business questions in e-commerce, inventory management, manufacturing, and logistics.
 
 📍 Based in Poland · Open to remote opportunities across the EU
 
