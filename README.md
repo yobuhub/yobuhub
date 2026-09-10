@@ -143,5 +143,6 @@ Preparing transaction materials gave me practice explaining business findings. D
  
 [![Email](https://img.shields.io/badge/Email-Contact-14161A?style=flat-square&logo=gmail&logoColor=white)](mailto:magda.schroer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magda-schroer/)
- 
+[![CV](https://img.shields.io/badge/CV-Download-14161A?style=flat-square&logo=googledocs&logoColor=white)]([YOUR_CV_LINK_HERE](https://docs.google.com/document/d/1eJ8nxSD4rTJf3jgPZTLf1owVRt13tssIblKhVo-osiU/edit?usp=sharing))
+
 #
