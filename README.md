@@ -7,7 +7,7 @@
 <br>
 I’m a data analyst with a background in finance and M&A. During my four years at PwC Polska, I researched markets and analyzed businesses to support buy-side and sell-side transactions, focusing on how companies make money and what drives performance.
 
-My experience also includes two years in UX/UI design and web development, where I designed and built websites and Shopify stores. I’m now developing my analytics portfolio using SQL, Python, and Excel, with projects focused on business questions in e-commerce, inventory management, manufacturing, and logistics.
+My experience also includes two years in UX/UI design and web development, where I designed and built websites and Shopify stores. I’m now developing my analytics portfolio using SQL, Power BI, Power Query, Python, and Excel, with projects focused on business questions in e-commerce, inventory management, manufacturing, and logistics.
 
 📍 Based in Poland · Open to remote opportunities across the EU
 
@@ -20,6 +20,7 @@ My experience also includes two years in UX/UI design and web development, where
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,14 +67,14 @@ I’m building four projects around different business questions. Each repositor
 <tr>
 <td width="50%" valign="top">
 
-**01 — Apparel E-commerce Funnel Analysis**<br>
-*Python-led clickstream analysis · 18.6M events across 5 months*
+**01 — Apparel E-commerce Dashboard**<br>
+*SQL Server + Power BI · 73.7M clickstream events, 25-table star schema, 24 months*
 
-Where do shoppers drop off between viewing a product, adding it to their cart, and purchasing—and which step should be investigated first?
+Revenue is growing year over year, so why is gross margin shrinking, and which lever (supplier costs, discounting, returns, or stockouts) should be fixed first?
 
-`Python` `pandas` `funnel analysis` `matplotlib`
+`SQL Server` `T-SQL` `Power BI` `DAX` `star schema` `funnel analysis`
 
-🚧 Planned
+🚧 In progress
 
 </td>
 <td width="50%" valign="top">
