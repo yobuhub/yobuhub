@@ -54,7 +54,7 @@ Designed and built websites and Shopify stores, combining interface design with 
 
 ### 🎓 Certifications & Learning
 
-**Associate Data Analyst in SQL — DataCamp**  
+<a href = "https://www.datacamp.com/certificate/DAA0010657760291">**Associate Data Analyst in SQL — DataCamp**<a/>  
 Professional certificate
 
 #
