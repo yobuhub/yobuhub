@@ -63,60 +63,7 @@ Professional certificate
 
 I’m building four projects around different business questions. Each repository will document the analysis, findings, and any data quality issues or limitations.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — Apparel E-commerce Dashboard**<br>
-*SQL Server + Power BI · 73.7M clickstream events, 25-table star schema, 24 months*
-
-Revenue is growing year over year, so why is gross margin shrinking, and which lever (supplier costs, discounting, returns, or stockouts) should be fixed first?
-
-`SQL Server` `T-SQL` `Power BI` `DAX` `star schema` `funnel analysis`
-
 🚧 In progress
-
-</td>
-<td width="50%" valign="top">
-
-**02 — Retail: Stock Rotation & Frozen Capital**<br>
-*SQL fundamentals + business-facing Excel · inventory snapshot vs. 90-day sales*
-
-How much capital is tied up in slow-moving stock, and which SKUs should be marked down or reordered?
-
-`SQL` `Excel` `pivot tables` `days-of-cover`
-
-🚧 Planned
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — Manufacturing Downtime & OEE**<br>
-*Excel / Power Query-led · production runs, downtime events, quality checks*
-
-Which causes of downtime reduce output the most, and how would addressing the largest one affect overall equipment effectiveness (OEE)?
-
-`Excel` `Power Query` `SQL` `window functions`
-
-🚧 Planned
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Logistics Operations Analysis**<br>
-*End-to-end SQL analysis · 14-table relational database, 87k orders*
-
-Where is this trucking operation losing money, and what should be investigated first?
-
-`SQL` `PostgreSQL` `CTEs` `window functions`
-
-🚧 Planned
-
-</td>
-</tr>
-</table>
 
 *Repo links go live as each project ships.*
 
